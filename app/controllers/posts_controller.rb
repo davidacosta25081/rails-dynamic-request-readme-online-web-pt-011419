@@ -4,4 +4,3 @@ class PostController < ApplicationController
 
 
 end
-
